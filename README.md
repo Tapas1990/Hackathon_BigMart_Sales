@@ -29,7 +29,7 @@ The goal of this project is to predict the sales of products in different BigMar
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Tapas1990/Hackathon_BigMart_Sales.git
 ```
 
 2. Install the required packages:
@@ -50,4 +50,4 @@ The model results and performance metrics are saved in `model_results.md`.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
